@@ -1,3 +1,3 @@
 Config = {}
 
-Config.a = 50 -- Km/h
+Config.a = 70 -- Km/h
